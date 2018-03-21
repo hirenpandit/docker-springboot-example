@@ -1,4 +1,4 @@
-# docker example of Springboot+MySQL+Angular5
+# Docker example of Springboot+MySQL+Angular5
 Springboot as backend service, MySQL as databse and Angular5 as UI 
 
 
