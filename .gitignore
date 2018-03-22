@@ -1,1 +1,6 @@
 */target/**
+/spring-docker/.classpath
+/spring-docker/.ide
+/spring-docker/.mnv
+/spring-docker/.project
+/spring-docker/.settings
